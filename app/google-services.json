@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "114418333318",
+    "firebase_url": "https://ladmu3jaab.firebaseio.com",
+    "project_id": "ladmu3jaab",
+    "storage_bucket": "ladmu3jaab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114418333318:android:8f83aeed896e158a318307",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_ejercicio3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114418333318-mrkc64b2lctlsggbttciov13fn6bepcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUR_We8ssvrcxab615bdyX7f4QVfK6KnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114418333318-mrkc64b2lctlsggbttciov13fn6bepcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114418333318:android:8265f4b7d3159b91318307",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_ejercicio4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114418333318-mrkc64b2lctlsggbttciov13fn6bepcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUR_We8ssvrcxab615bdyX7f4QVfK6KnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114418333318-mrkc64b2lctlsggbttciov13fn6bepcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114418333318:android:ee80f75d5a4c87ef318307",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_ejercicio5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114418333318-mrkc64b2lctlsggbttciov13fn6bepcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUR_We8ssvrcxab615bdyX7f4QVfK6KnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114418333318-mrkc64b2lctlsggbttciov13fn6bepcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
